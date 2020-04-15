@@ -1,6 +1,6 @@
 ************* LUNAR LANDER *************
 
-V1.0 : "Enjoy the mechanics".
+V1.0.0 : "Enjoy the mechanics".
 
 z = turn on engine.
 
