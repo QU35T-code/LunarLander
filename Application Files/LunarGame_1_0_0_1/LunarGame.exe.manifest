@@ -31,14 +31,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LunarGame.exe" size="157664">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LunarGame.exe" size="162784">
       <assemblyIdentity name="LunarGame" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>lUQLvk5Ty0Zf+MCp/MGOGJPijZL61ApNy4lnNYG8h3A=</dsig:DigestValue>
+        <dsig:DigestValue>SnHU1t/dPmEz7kds63nw8h2HnEZTSQSceJJSu7y3Ns8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -147,6 +147,33 @@
       <dsig:DigestValue>Yo2tPDdS9Mr205u5tMN/00RNF2Il+gToQILJ1k7aOAY=</dsig:DigestValue>
     </hash>
   </file>
+  <file name="Content\mainfont.xnb" size="316684">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>loNMKYHFDufoEJkIFigvGKWc1nOGzZls5pfbgiAOVlQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\Play.xnb" size="213685">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>OQ/oJQpnwEtbiNHpfy6tZGEA3iTx+0RkeUUi9mckOHk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\Quit.xnb" size="213685">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>cDM4hR+C9Y28cCbaBvrsfpZSvqzKJhRFf3hu9uTTp7w=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="Content\ship.xnb" size="1285">
     <hash>
       <dsig:Transforms>
@@ -187,4 +214,4 @@
       <dpiAware xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true/pm</dpiAware>
     </windowsSettings>
   </application>
-<publisherIdentity name="CN=DESKTOP-3HC4PLK\alexi" issuerKeyHash="17e5551c6ea68641f789fd7715fd3679d7549c3f" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>fTwwmYEPsqaCfmwNrezaGyf9kyJVVY2Tm0A9gKPdotU=</DigestValue></Reference></SignedInfo><SignatureValue>FKADqybhjiMMaW+hrN1Z+oZzLXpy8PFfjgQWQ7j0jWoa5qXxq4Jot/81c32Q3ZHwiPH21Ryh/Yq6TNUqxBrDwfkMwfk16kWMFaie7gxPbWGGSBYRvYGes34LqwzoP6oDeKUB+SZD3tbOZwFZde+pAhV5wDniIpGz+IW8AHUj0Tk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>xuV7bZ0p7+fl2n7UdNx882rh3naO7v+0OIFz9Lc52zyUkqB0sekfJ2IiJlSq1rRGgocnNliPblBQTxxJLTLmfgp07u9rE+q7nxd1NgXx9+3g+IsWhE4sRCdYAR/OaasInamzyT91yxwkB7LAGP28OHpTy8EEL7TF0vMSLQ21WS0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d5a2dda3803d409b938d55552293fd271bdaecad0d6c7e82a6b20f8199303c7d" Description="" Url=""><as:assemblyIdentity name="LunarGame.exe" version="1.0.0.1" publicKeyToken="0f08a3dae986d6a0" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-3HC4PLK\alexi</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>+gUJ+xcoV1fIpV4Zbhfk/UiolirqPhBSR7nagsFlPAs=</DigestValue></Reference></SignedInfo><SignatureValue>gFxkGO779QhEhndt475xSOs4yco9DGMnkYGD+n75xv/750Kk1nFU3elujRv+ZxenA8L+5b9E4n+RDFp+oxBsErLlKZP/CmOHzdNAGkhk/RMfLV4Nnhr2SpqabZ0Fjuz7NO946qV2yy1AZ98nHXiSAhfEPAmrDk3wi+BpoL0ZuR0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xuV7bZ0p7+fl2n7UdNx882rh3naO7v+0OIFz9Lc52zyUkqB0sekfJ2IiJlSq1rRGgocnNliPblBQTxxJLTLmfgp07u9rE+q7nxd1NgXx9+3g+IsWhE4sRCdYAR/OaasInamzyT91yxwkB7LAGP28OHpTy8EEL7TF0vMSLQ21WS0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQe+YYADMWKIhL/4sYc/USXzANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADMASABDADQAUABMAEsAXABhAGwAZQB4AGkwHhcNMjAwNDE1MTk0NzA5WhcNMjEwNDE2MDE0NzA5WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADMASABDADQAUABMAEsAXABhAGwAZQB4AGkwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMble22dKe/n5dp+1HTcfPNq4d52ju7/tDiBc/S3Ods8lJKgdLHpHydiIiZUqta0RoKHJzZYj25QUE8cSS0y5n4KdO7vaxPqu58XdTYF8fft4PiLFoROLEQnWAEfzmmrCJ2ps8k/dcscJAeywBj9vDh6U8vBBC+0xdLzEi0NtVktAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAZ022cJEcZ/ezbEdk98pmII4nx1ZlPEVFOB/krqqVV4XmkfZ0LW8Mh3LjjlK2b4cKXQoW87rMcGsL/AsXjbwa9zdF9+F70dN6xK74sqDEqUEfRKDnrSkN6bWN7G5YLT1Qq/BcH8ugEZNlDSnQMWwUQgGvJejrKNWvJ8njRknF+Eg=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
+<publisherIdentity name="CN=DESKTOP-3HC4PLK\alexi" issuerKeyHash="17e5551c6ea68641f789fd7715fd3679d7549c3f" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/6Y8MDDFiDTsgcIifKMVqdJmLpZESVDCW2nFEI+iSks=</DigestValue></Reference></SignedInfo><SignatureValue>iifQNZm6n+FQ4sjL52xYldS+Q+21yDXSJKeNKOY+KCglTumabkElB0hXofuuqtUeD141zeLqBJ7DvGUKuj9rOQZ0uaYlaE1bVRDgKl5OvfFvrcPiaeZGVFz/6pQBIXBjNjIQUQYwmE2UrBzu+5Gc6wKbr4O6fTCgFJFGHrj9yhA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>xuV7bZ0p7+fl2n7UdNx882rh3naO7v+0OIFz9Lc52zyUkqB0sekfJ2IiJlSq1rRGgocnNliPblBQTxxJLTLmfgp07u9rE+q7nxd1NgXx9+3g+IsWhE4sRCdYAR/OaasInamzyT91yxwkB7LAGP28OHpTy8EEL7TF0vMSLQ21WS0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4b4aa28f10c5695bc2504944962e66d2a915a37c22c281ec3488c530303ca6ff" Description="" Url=""><as:assemblyIdentity name="LunarGame.exe" version="1.0.0.1" publicKeyToken="0f08a3dae986d6a0" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-3HC4PLK\alexi</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>7OIDVTH+Xz9wEDJDqncm6a4gelmIhLh9fZDoLlQ7XSA=</DigestValue></Reference></SignedInfo><SignatureValue>XKSt+6vje9WP4aCMf1AcLjzs6FA9jB6bjiIUOA7aJ9NU/raMg7mu5aXkhRcWmkf0b6LeXQEr17sq9r4iE5HHMKpIwAOyAHAL/k7iILNC6mCdh/9G9waC2wMj98voy+ZjDnQKn6HkDl4VmdofTrh26QdsQrxsFCJEBYJr+tM+eto=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xuV7bZ0p7+fl2n7UdNx882rh3naO7v+0OIFz9Lc52zyUkqB0sekfJ2IiJlSq1rRGgocnNliPblBQTxxJLTLmfgp07u9rE+q7nxd1NgXx9+3g+IsWhE4sRCdYAR/OaasInamzyT91yxwkB7LAGP28OHpTy8EEL7TF0vMSLQ21WS0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQe+YYADMWKIhL/4sYc/USXzANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADMASABDADQAUABMAEsAXABhAGwAZQB4AGkwHhcNMjAwNDE1MTk0NzA5WhcNMjEwNDE2MDE0NzA5WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADMASABDADQAUABMAEsAXABhAGwAZQB4AGkwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMble22dKe/n5dp+1HTcfPNq4d52ju7/tDiBc/S3Ods8lJKgdLHpHydiIiZUqta0RoKHJzZYj25QUE8cSS0y5n4KdO7vaxPqu58XdTYF8fft4PiLFoROLEQnWAEfzmmrCJ2ps8k/dcscJAeywBj9vDh6U8vBBC+0xdLzEi0NtVktAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAZ022cJEcZ/ezbEdk98pmII4nx1ZlPEVFOB/krqqVV4XmkfZ0LW8Mh3LjjlK2b4cKXQoW87rMcGsL/AsXjbwa9zdF9+F70dN6xK74sqDEqUEfRKDnrSkN6bWN7G5YLT1Qq/BcH8ugEZNlDSnQMWwUQgGvJejrKNWvJ8njRknF+Eg=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
