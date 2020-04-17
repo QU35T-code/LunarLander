@@ -2,7 +2,7 @@
 
 ----------------------------------
 
-V1.0.0 : "Enjoy the mechanics".
+V1.0.0 : "Enjoy the mechanics :)".
 
 z = turn on engine.
 
@@ -19,6 +19,18 @@ z = turn on engine.
 q = left rotation.
 
 d = right rotation.
+
+----------------------------------
+
+V2.0.0 : "Do you have skill ? :)".
+
+z = turn on engine.
+
+q = left rotation.
+
+d = right rotation.
+
+p = restart.
 
 ----------------------------------
 
